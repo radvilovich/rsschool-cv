@@ -37,3 +37,14 @@ No experience, just learning.
 Now I study in:
 * [«JavaScript/Front-end»](https://rs.school/js/) course in RSSchool
 * Codeacademy platform. [My achievements](https://www.codecademy.com/users/Radvilovich/achievements)
+### ENGLISH LANGUAGE
+***
+7 years at school, 2 years at the university, 1 year at additional courses. The practice of spoken language while traveling. 
+
+There is a table with my English level:
+| Skill  | Level |
+| --------- | ---- |
+| Speaking  | B1  |
+| Reading  | B2  |
+| Listening  | B1  |
+| Grammar  | B2  |
