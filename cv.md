@@ -32,5 +32,8 @@ Now RSSchool student with a great desire to get new knowledge. And with readines
 **Experience:**
 
 No experience, just learning.
-
-
+### EDUCATION
+***
+Now I study in:
+* [«JavaScript/Front-end»](https://rs.school/js/) course in RSSchool
+* Codeacademy platform. [My achievements](https://www.codecademy.com/users/Radvilovich/achievements)
